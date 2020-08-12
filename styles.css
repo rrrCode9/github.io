@@ -42,11 +42,11 @@ body{
 }
 
 a:link {
-    color: red;
+    color: white;
     text-decoration: none;
   }
   
   /* visited link */
   a:visited {
-    color: red;
+    color: white;
   }
