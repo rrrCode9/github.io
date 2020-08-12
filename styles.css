@@ -28,9 +28,8 @@ body{
 .YouTubeLink{
     width: 360;
     height: 30px;
-    background: #ff0000;
+    background: #ffffff00;
     cursor: pointer;
-    color:white important!;
     margin-top: 0px;
     border-radius: 1px;
     display: flex;
@@ -43,11 +42,11 @@ body{
 }
 
 a:link {
-    color: white;
+    color: red;
     text-decoration: none;
   }
   
   /* visited link */
   a:visited {
-    color: white;
+    color: red;
   }
