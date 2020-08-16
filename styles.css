@@ -1,6 +1,7 @@
 
 body{
     background-color: #202735;
+    scroll-behavior: smooth;
 }
 
 .container{
@@ -12,7 +13,7 @@ body{
     margin:30px;
     width:auto;
     flex-wrap: wrap;
-    /* height: 100vh; */
+    
 
 
 }
@@ -25,6 +26,13 @@ body{
     margin-bottom: 0px;
     display: flex;
     flex-direction: column;
+    
+}
+
+.frame{
+    border-radius: 0.3em;
+
+
 }
 
 .YouTubeLink{
